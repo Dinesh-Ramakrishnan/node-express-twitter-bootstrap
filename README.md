@@ -61,8 +61,8 @@ vmc push
 
 ## Reference
 
-[Parent Repo](https://github.com/seafoox/node-express-twitter-bootstrap)
-[CloudFoundry Instructions](http://docs.cloudfoundry.com/frameworks/nodejs/nodejs.html)
+- [Parent Repo](https://github.com/seafoox/node-express-twitter-bootstrap)
+- [CloudFoundry Instructions](http://docs.cloudfoundry.com/frameworks/nodejs/nodejs.html)
 ## Changelog:
 
 ### v.0.1 : June 13th, 2012
