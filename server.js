@@ -3,6 +3,7 @@ var app = require('./app').init(process.env.VCAP_APP_PORT);
 var locals = {
         title: 		 'NodeJS Boostrap using Express / EJS / Twitter Bootstrap / CSS3',
         description: 'Node Express HTML5 & CSS3',
+		url:'http://prdexample.cloudfoundry.com/',
         author: 	 'Alexandre Collin'
     };
 
