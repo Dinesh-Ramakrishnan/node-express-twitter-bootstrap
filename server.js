@@ -1,4 +1,4 @@
-var app = require('./app').init(4000);
+var app = require('./app').init(process.env.VCAP_APP_PORT);
 
 var locals = {
         title: 		 'NodeJS Boostrap using Express / EJS / Twitter Bootstrap / CSS3',

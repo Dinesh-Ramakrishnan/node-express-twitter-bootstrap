@@ -1,0 +1,9 @@
+{
+ "name":"hello-node-tb",
+  "version":"0.0.1",
+  "dependencies":{
+      "express":""
+
+  },
+  "scripts":{"start":"server"}
+}
