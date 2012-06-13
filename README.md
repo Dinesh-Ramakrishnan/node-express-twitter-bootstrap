@@ -63,6 +63,7 @@ vmc push
 
 - [Parent Repo](https://github.com/seafoox/node-express-twitter-bootstrap)
 - [CloudFoundry Instructions](http://docs.cloudfoundry.com/frameworks/nodejs/nodejs.html)
+- [stackoverflow](http://stackoverflow.com/questions/11009162/nodejs-on-cloudfoundry-application-file-name)
 
 
 ## Changelog:
